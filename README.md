@@ -28,3 +28,7 @@ Le projet consiste en l'analyse statistique de données de pollution industriell
 - `statsmodels` pour la réalisation de la régression linéaire
 
 Le code Python est commenté pour assurer une compréhension claire des étapes effectuées.
+
+## Licence
+
+Ce projet est sous licence GNU AGPLv3. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
