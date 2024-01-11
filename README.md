@@ -14,6 +14,7 @@ Le projet consiste en l'analyse statistique de données de pollution industriell
 2. Exécutez le fichier Python `analyse.py` dans un environnement compatible avec les bibliothèques utilisées (numpy, matplotlib, pandas, scipy.stats, statsmodels).
 3. Le script effectuera divers calculs statistiques, simulations et une régression linéaire, générant des résultats et des graphiques.
 4. Consultez le rapport au format PDF, nommé `rapport.pdf`, pour une présentation détaillée des résultats et des réponses aux questions.
+5. [![Rapport PDF](extrait.png)](rapport.pdf)
 
 ## Bibliothèques Utilisées
 
